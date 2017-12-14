@@ -23,6 +23,7 @@ def get_word_lengths(s):
 #    return None
 
 
+#more comments even more
 #more comments
 #uncomment this function in step 6
 def test_get_word_lengths():
